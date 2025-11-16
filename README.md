@@ -1,4 +1,4 @@
-# 🚀 Personal Portfolio – Full Stack Dynamic Portfolio (Next.js)
+# 🚀 Personal Portfolio – 
 
 My portfolio is a dynamic, full-stack, and multi-project showcase platform where I display all of my web development work — including both frontend and backend projects — along with live demos, documentation, and code repositories.
 
@@ -6,7 +6,7 @@ It is designed with a modern UI/UX, smooth animations, and a developer-friendly 
 
 ---
 
-## 🔥 Features (Highlights)
+## 🔥 Features -
 
 - Multiple **frontend + backend** projects showcase
 - Live demo links + GitHub repo links
@@ -80,8 +80,8 @@ It is designed with a modern UI/UX, smooth animations, and a developer-friendly 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
+git clone git@github.com:rvcode-space-hub/Protfolio.git
+cd ravi-portfolio
 npm install
 npm run dev
 
@@ -92,6 +92,7 @@ npm run dev
 
 ## 📞 Contact
 
-**Name**: Ravi Shankar Singh
-**Mobile No**: 9871585013
-**Email**: ravishankar.singh.backend@gmail.com
+**Name:** Ravi Shankar Singh  
+**Mobile No:** 9871585013  
+**Email:** ravishankar.singh.backend@gmail.com
+
